@@ -1,0 +1,5 @@
+{
+  "name": "Rapid Fire Speaking",
+  "description": "A fast-paced spoken English practice game to improve fluency and vocabulary recall.",
+  "requestFramePermissions": ["microphone"]
+}
